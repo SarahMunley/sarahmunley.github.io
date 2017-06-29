@@ -1,0 +1,47 @@
+h1 {
+	font-family: 'muli', sans-serif;
+	color: Green;
+	padding-left: 10px;
+	
+}
+h2 {
+	font-family: 'muli', sans-serif;
+	color: gray;
+	padding-left: 10px;
+	
+}
+p {
+	font-family: 'muli', sans-serif;
+	color: gray;
+	font-size: 11px;
+	margin: 5px
+	padding 10px;	
+}
+li {
+	font-family: 'muli', sans-serif;
+	color: black;
+	font-size: 14px;
+	list-style-type: disc;
+}
+ol {
+	padding-left: 5px;
+}
+.vendor {
+	margin: 5px;
+	padding: 10px;
+	border: 2px solid black;
+	max-width: 250px;
+
+}
+.client {
+	margin: 5px;
+	padding: 10px;
+	border: 2px solid black;
+	max-width: 250px;
+}
+.items {
+	margin: 5px;
+	padding: 10px;
+	border: 2px solid black;
+	max-width: 600px;
+}

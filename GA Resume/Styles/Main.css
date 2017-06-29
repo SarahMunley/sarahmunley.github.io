@@ -1,0 +1,49 @@
+section {
+	max-width: 600px;
+}
+article {
+	margin-left: 15px;
+}
+.pic {
+	float: left;
+	padding: 15px;
+}
+.name {
+	
+	font-family: 'Roboto Slab', serif;
+	color: #FF5733;
+	margin-bottom: 5px;
+}
+a {
+	color:#494848;
+}
+
+a:hover {
+	color:#FF5733;
+}
+#contact {
+	font-family: 'josefin sans', sans-serif;
+	font-size: 14px;
+	color: #494848;
+}
+.heading {
+	margin-top: 15px;
+	color: #FF5733;
+	font-size: 14px;
+	font-family: 'roboto slab', serif;
+}
+.copy {
+	color:#646363;
+	font-family: 'josefin sans', sans-serif;
+	font-size: 14px;
+}
+.jobs {
+	font-family: 'roboto slab', serif;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+li {
+	color:#646363;
+	font-family: 'josefin sans', sans-serif;
+	font-size: 14px;
+}
