@@ -35,6 +35,7 @@ li 	{
 	color: #666466;
 	list-style: none;
 	text-align: center;
+	/* the text align isn't working to center the text on just the list items */
 }
 a {
 	color: white;
