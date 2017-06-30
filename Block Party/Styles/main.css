@@ -1,0 +1,89 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 22px;
+	color: white;
+	background-color: #089373;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+h2 {
+	font-family: "Amatic SC", cursive;
+	font-size: 22px;
+	color: #089373;
+	text-align: center;
+}
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 14px;
+	color: #B538AF;
+	text-align: center;
+}
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 12px;
+	color: #666466;
+	text-align: center;
+}
+li 	{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 14px;
+	color: #666466;
+	list-style: none;
+	text-align: center;
+}
+a {
+	color: white;
+}
+a:hover {
+	color: orange;
+}
+#featuring {
+	font-size: 60px;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+#janie {
+	font-size: 20px;
+}
+#band {
+	font-size: 18px;
+}
+.feature {
+	text-align: center;
+}
+.food {
+	background-color: #E7EA7C;
+	border: 5px solid #108C64;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+.drinks {
+	background-color: #E7EA7C;
+	border: 5px solid #6C108C;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+.guests {
+	border: 5px dotted #9DC915;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+.footer {
+	background-color: #024344;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#footertext {
+	color: white;
+}
