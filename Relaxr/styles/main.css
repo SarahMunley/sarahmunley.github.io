@@ -1,0 +1,117 @@
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+body {
+	 color: #000;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: Helvetica, Arial, sans-serif;
+     background: #121212;
+     background-size: cover;
+	
+}
+#container {
+	background-image: url("http://i.imgur.com/3pRIHgW.jpg");
+	background-size: cover;
+  	width: 100%;
+  	margin: auto;
+  	height: 500px;
+  	padding-left: 20px;
+  	padding-top: 20px;
+}
+.button {
+	border-radius: 5px;
+	background-color: #f9e42e;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+	font-weight: 800;
+	padding: 10px;
+}
+
+h1 {
+	color: white;
+	font-family: 'open sans', sans-serif;
+	font-size: 24px;
+	font-weight: 800;
+}
+h2 {
+	font-family: 'open sans', sans-serif;
+	color: black;
+	font-size: 14px;
+	font-weight: 800;
+}
+h3 {
+	font-family: 'open sans', sans-serif;
+	color: white;
+	font-size: 24px;
+	font-weight: 600;
+}
+#peace {
+	text-align: center;
+	padding-top: 50px;
+}
+/* This white band  is where I think something is off. Not sure how to manage UL's */
+.whiteband {
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	padding-left: 250px;
+	padding-right: 250px;
+}
+
+p, ul {
+	font-family: 'open sans', sans-serif;
+	font-weight: 300;
+	font-size: 13px;
+	color: #606161;
+}
+#benefits {
+	font-size: 20px;
+	color: #606161;
+}
+
+.testimonial {
+	background-image: url('http://i.imgur.com/irp9Xun.jpg');
+	background-size: cover;
+  	width: 100%;
+  	margin: auto;
+  	height: 300px;
+  	padding-left: 20px;
+  	padding-top: 20px;
+}
+#testimonialtext {
+	color: white;
+	font-style: italic;
+	font-size: 18px;
+	text-align: center;
+	max-width: 350px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#amanda {
+	color: white;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+img {
+	padding: 20px;
+}
+.signuprow {
+	background-color: #f9e42e;
+	text-align: center;
+	height: 60px;
+	padding-top: 10px;
+}
+#signupbutton {
+	background-color: #033048;
+	color: white;
+}
+footer {
+	text-align: center;
+}
+
